@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Vikas </h1>
 <h3 align="center">Aspiring Full-Stack .NET Developer | C# | ASP.NET | SQL Server</h3>
 
 🚀 Passionate about building secure and scalable web applications  
@@ -60,3 +60,4 @@
 ---
 
 ⭐ **“Code. Improve. Repeat.”**  
+
