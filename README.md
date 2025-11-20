@@ -39,10 +39,10 @@
 ---
 
 ### 📊 GitHub Stats
-###<p align="center">
-###  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsvikas94&show_icons=true&theme=tokyonight" />
- ### <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvikas94&layout=compact&theme=tokyonight" />
-###</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsvikas94&show_icons=true&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvikas94&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -61,6 +61,7 @@
 ---
 
 ⭐ **“Code. Improve. Repeat.”**  
+
 
 
 
